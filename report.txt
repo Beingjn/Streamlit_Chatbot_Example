@@ -1,0 +1,198 @@
+Current Category: Display Issue
+
+1. Dead Pixels, Spots, and Burn Marks (~45 reports)
+   • Multiple customers note the appearance of dead pixels and fixed spots (black, white, or yellow) on the projected image that do not disappear with cleaning.
+   • Several users describe burn‐in or stain issues where a portion of the image is permanently discolored or “burned” on the display.
+
+2. Low Brightness/Dim Image (~40 reports)
+   • Many feedback messages state that the projected image is extremely dim even in darkened rooms, with brightness settings having little effect.
+   • Some users report a sudden drop in brightness after brief periods of normal operation, making the image nearly invisible.
+
+3. Blurry or Unfocused Picture (~35 reports)
+   • A consistent complaint is that the image appears blurred or only partially in focus—often with the center clear but the edges or specific corners unfocused.
+   • Customers mention that both auto focus and manual focus adjustments fail to produce a uniformly sharp image.
+
+4. Flickering and Intermittent Display (~30 reports)
+   • Several reports indicate the display intermittently flickers or goes completely black (while sound continues), often requiring a full power cycle to regain a functioning image.
+   • Users cite that this instability sometimes occurs after the device is used for a short period.
+
+5. Color and Contrast Inconsistencies (~25 reports)
+   • Some customers complain about inaccurate color reproduction, such as a washed‐out, yellowish, or orange tint, along with poor contrast despite advertised HDR or 4K support.
+   • There are mentions of uneven color output and the image looking dull compared to expectations.
+Sound Issue
+
+1. Excessive Noise and Fan Sounds (~20 reports)
+   • Multiple users complain that the projector is “trop bruyant,” “really loud,” or “Zu laut,” with its internal fan noise often overwhelming the intended audio.
+   • Several messages note that even on standby or at low volume, the operational noise (or even noise when the unit is off) interferes with the viewing experience.
+   • Comments in various languages emphasize that the level of noise is a major annoyance and impacts usability in quiet environments.
+
+2. No or Inadequate Sound Output (~10 reports)
+   • Some reports mention that after updates or via HDMI connections, there is no sound output at all.
+   • Users have observed that the sound settings (for example, the “sound” menu entry being greyed out) block access to features meant for enhancing dialogue or volume.
+   • In a few cases, the device falsely indicates that headphones are connected, leaving users with no audio from the built‐in speakers.
+
+3. Poor Audio Quality and Distortion (~8 reports)
+   • Feedback includes descriptions of tinny, metallic, and buzz-like sounds that reduce the overall listening quality.
+   • Several users report symptoms such as audio lag or a mismatch with video elements, with some instances of crackling and distorted sound being noted.
+   • These issues compromise the advertised audio performance, even when the image quality remains good.
+
+4. Bluetooth Connectivity and Audio Glitches (~5 reports)
+   • Multiple customers report unstable Bluetooth connections where audio cuts in and out or is nearly inaudible on paired external speakers.
+   • Some have experienced difficulties with Bluetooth settings automatically reverting or pairing with incorrect devices.
+   • This results in intermittent sound output, impacting the reliability of wireless audio streaming.
+Connectivity Issue
+
+1. WiFi Connection Failures (~30 reports)
+   • Multiple customers report that the projector won’t connect to home WiFi or mobile hotspots.
+   • Frequent error messages such as “connection failed” and “timed out” are noted.
+   • Several users mention intermittent connectivity, with the device disconnecting unexpectedly or failing to “remember” WiFi settings.
+
+2. Bluetooth/Remote Pairing Problems (~20 reports)
+   • Many complaints involve difficulties pairing the remote control or Bluetooth audio devices (including speakers and AirPods) with the projector.
+   • Users report that Bluetooth connections are unstable or simply “don’t work” despite multiple pairing attempts.
+   • Some customers describe that even after replacing batteries or using companion apps, the devices fail to connect.
+
+3. Screen Mirroring/Casting Malfunctions (~15 reports)
+   • Several users are unable to successfully initiate screen mirroring; while their phones sometimes detect the projector, connection never fully establishes.
+   • Both iOS and Android devices are affected, with reports of the casting process stalling or the projection failing to change even though the source shows as connected.
+   • Laggy or “glitchy” connections are also mentioned, hindering a reliable mirroring experience.
+Category: On/Off Issue
+
+1. Inconsistent Power Activation (~70 reports)
+   • Many customers describe the projector either not turning on at all or only powering up briefly (often showing the Aurzen logo) before immediately shutting off.
+   • The power indicator frequently blinks red/white and the fan may run while no image is produced.
+   • Users have verified that all cables, outlets, and venting are correct, yet the device still fails to stay on.
+
+2. Unresponsive Power Controls (~25 reports)
+   • Several customers report that the projector’s power button (both on the device and via remote control) sometimes does not respond, leaving them unable to reliably switch the unit on or off.
+   • In some instances, users must unplug the projector entirely to force it off or to attempt a reset.
+   • This intermittent unresponsiveness has led to repeated warranty and replacement requests.
+Other Hardware Issue
+
+1. Internal Lens Defects and Contamination (~35 reports)
+   • Many customers report seeing persistent white dots, dark specks, brown or yellow spots, or even burn marks in the projected image.
+   • Complaints note that cleaning the outer lens has little or no effect—suggesting that dust or defects exist inside the lens.
+   • Several users suspect that the lens is not sealed properly, allowing contaminants to infiltrate and progressively worsen the image quality.
+
+2. Physical Damage and Structural Imperfections in the Lens Assembly (~10 reports)
+   • Some customers mention scratches, cracked spots, or burn marks visible on the lens right from unboxing or after minimal use.
+   • A few reports indicate that the lens appears loose or misaligned, which seems to impair the autofocus function or results in uneven focus.
+   • The issues are seen as manufacturing defects rather than damage from handling, prompting requests for repair, replacement, or refund under warranty. 
+Software Issue
+
+1. App Download and Streaming Problems (~30 reports)
+   • Many users report inability to download or install popular apps (e.g., Disney+, Hulu, YouTube TV, MagicCast, MyCanal) from the limited app store.
+   • Several complaints mention error messages (such as “error 404” or “out of memory”) and blank screens when attempting to launch streaming services.
+   • Feedback indicates that only a few pre-installed apps work reliably while web-wrapped versions perform poorly.
+
+2. Software Update and Glitchy Behavior (~15 reports)
+   • Numerous customers describe that after applying software updates the projector becomes laggy, freezes, or crashes unexpectedly.
+   • Some reports indicate that updates get stuck (e.g., update progress remaining at 1%) or result in a generally unresponsive user interface.
+   • Users express frustration that the system’s stability deteriorates after firmware updates that were supposed to improve performance.
+
+3. Auto Functionality and Settings Memory Failures (~10 reports)
+   • Several reviews mention that auto keystone correction, autofocus, and zoom settings fail to save or reset to defaults with every power cycle.
+   • Users are forced to recalibrate manually each time, which detracts from the advertised “smart” functionality.
+   • These recurring software issues with adjustment features significantly impair the overall user experience.
+Specification Mismatch – Report
+
+1. Resolution and 4K Capability (~8 reports)
+   • Several customers report that the projector is advertised as “4K” or “UHD 4K” but only delivers 1080p output.
+   • Complaints mention that 4K content is either downscaled or not supported at all, leading to a significant quality gap.
+
+2. Brightness and Lumens Discrepancies (~20 reports)
+   • Numerous reviews state that the brightness is far below what the specifications indicate, making the image look washed out or unusable in ambient light.
+   • Users note that the advertised ANSI lumens or brightness levels are not reached, causing poor performance in non-dark environments.
+
+3. App and Software Functionality Mismatch (~12 reports)
+   • Many customers are disappointed with the limited streaming app support; advertised features (such as full Android TV, access to Disney+, Hulu, etc.) are missing or nonfunctional.
+   • Several reviews indicate that the product’s software does not allow downloading a wider range of apps as claimed, reducing the overall usability.
+
+4. Build, Design, and Feature Inconsistencies (~10 reports)
+   • Some customers expected additional accessories or specific design features (for example, an included stand or a particular color) which the product did not have.
+   • Other reports mention the absence of a zoom function, improper lens coverings, or dimensions and mounting features that do not match the advertised images.
+
+5. Performance and Technical Specification Issues (~4 reports)
+   • There are complaints regarding refresh rate, input lag, and keystone/autofocus performance that do not conform to the technical claims.
+   • One report even highlights a mismatch in storage capacity (16GB expected versus 8GB shown).
+
+6. Compatibility Discrepancies (~4 reports)
+   • Customers have experienced issues with device compatibility (e.g. with certain smartphones like Pixel or other casting applications) contrary to what the product description suggests.
+   • These compatibility issues have led to functionality gaps in streaming and wireless mirroring as promised.
+
+
+Shipping Issue
+
+1. Non-delivery, Delays, and Tracking Issues (~68 reports)
+   • Multiple customers report that their shipment never arrived or remains “stuck,” with tracking information static or missing.
+   • Several messages note that packages were marked as delivered (or even photographed at the doorstep) but were never received.
+   • Numerous inquiries about delayed processing, missing tracking numbers, or orders “returning to sender” indicate widespread issues with shipment updates.
+
+2. Wrong or Incomplete Deliveries (~4 reports)
+   • A few customers received the incorrect item (for example, filters instead of the projector or a US plug instead of a UK one).
+   • Some orders were only partially fulfilled, with only one component or accessory arriving while the rest of the order was missing.
+
+3. Packaging and Damage Issues (~6 reports)
+   • Several customers mention receiving packages in damaged or unsealed boxes, indicating possible mishandling during shipping.
+   • Complaints include open or insufficiently protected packaging that has led to concerns over product condition on arrival.
+Documentation Issue
+
+1. Incomplete Technical and Feature Information (~8 reports)
+   • Missing details on key specifications such as supported refresh rates (e.g., whether 60Hz is supported) and feature explanations (e.g., CEC mode, auto sleep function).
+   • Manuals and campaign materials often lack comprehensive content, with some users not even finding the complete manual or book.
+   • Vague documentation leaves users uncertain about compatibility details (e.g., Pixel device compatibility).
+
+2. Insufficient Setup and Operational Instructions (~4 reports)
+   • Lack of clear, step‐by‐step guidance for setting up accessories or features, such as using a gaming stick, connecting to Prime Video, or scanning the proper QR code for warranty extension.
+   • Directions sometimes appear to be tailored only for specific devices (e.g., Samsung) and do not address alternative platforms, leading to user confusion.
+
+3. Missing Cleaning, Maintenance, and Troubleshooting Guidance (~6 reports)
+   • Inadequate or missing instructions for tasks like cleaning the projector (e.g., how to use the cotton buds, clean lenses, or replace bulbs) lead to maintenance issues.
+   • Troubleshooting protocols for common faults—such as alerts about blocked air inlets, reset procedures when the device fails to start, or resolving dim outputs—are not covered in the provided documentation.
+   • Users report that the manuals offer no guidance for resolving unexpected behaviors, leaving them uncertain about next steps under warranty or during malfunction.
+Category: Accessory Issue
+
+1. Remote Control Issues (~26 reports)
+   • Numerous customers report receiving a projector without a remote or with a remote that later malfunctions (broken, water‐damaged, unresponsive, or missing batteries).
+   • Many are requesting a replacement due to damage (including chewing by pets) or failure after a few weeks or months of use.
+
+2. Power Cable/Adapter Issues (~17 reports)
+   • Several complaints involve receiving the wrong plug type (e.g. US instead of UK), overly short cables, or broken/damaged power cords.
+   • Customers report missing power cables or adapters, and some note that replacement or compatible options are hard to find.
+
+3. Lens Protection / Lens Cover Issues (~5 reports)
+   • Reports indicate that the lens protector (rubber or PVC cap) is missing from the package or does not properly fit the unit.
+   • Users are concerned that the misfitting cover leaves the lens unprotected from dust.
+
+4. Mount/Stand and Fastener Issues (~4 reports)
+   • Some customers mention that essential mounting accessories—such as a kickstand, foldable support, or screws for ceiling mounts—are missing.
+   • Buyers of projector bundles note incomplete delivery of mounting stands and related support hardware.
+
+5. HDMI Cable/Wireless Dongle Issues (~8 reports)
+   • Multiple reports note that HDMI cables are either faulty or not included.
+   • Others are unable to locate or order the wireless HDMI dongle (or cast dongle) that is supposed to complement the projector, with one bundle delivery missing several add‐on accessories.
+
+6. Missing Batteries (~2 reports)
+   • A few customers state that the remote control either comes without batteries or that they were not provided, complicating immediate use.
+
+7. Incomplete Accessory Bundles (~1 report)
+   • At least one customer received only part of the promised bundle (missing mounts, dongle, or charging stand) and is seeking the missing items.
+Other Issue
+
+1. Used/Refurbished Product Condition (~7 reports)
+   • Multiple customers report receiving items that show clear signs of prior use—open boxes, residual user settings (eg, Netflix profiles), or visibly used components.
+   • Complaints note that products sold as “new” arrive refurbished or re‑used, undermining customer trust.
+
+2. Quality & Performance Discrepancies (~20 reports)
+   • Several reviews mention that the overall build or picture quality is far below expectations (“not as good as seen on reviews,” “not as promised”).
+   • Vague but recurring dissatisfaction is expressed in phrases such as “not what I was expecting,” “not meeting requirements,” and “poor quality.”
+   • Customers also report that performance degrades over time, contributing to a sense that the product does not live up to advertised standards.
+
+3. Price, Refund, and Order Processing Issues (~27 reports)
+   • Many remarks center on pricing concerns: items having a lower sale price shortly after purchase, discount codes not applying correctly, and price‐match requests.
+   • Inquiries and complaints about refunds—including duplicate charges, missing credit notes, or only partial refunds—are frequent.
+   • Additional issues include order cancellation difficulties and payment processing problems (eg, being charged multiple times or not being able to update payment details).
+
+4. Warranty, Terms, and Privacy Concerns (~4 reports)
+   • Some customers are alarmed by the license agreement and privacy terms, feeling that the service may be capturing and misusing their data.
+   • Complaints also mention the extended warranty process (sometimes required via an external site) and frustration with customer service in handling warranty or replacement claims.
