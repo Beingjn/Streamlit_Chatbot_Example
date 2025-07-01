@@ -2,15 +2,12 @@ import streamlit as st
 import requests
 from openai import OpenAI
 
+st.title("Cutomer Complaint Analyser")
 # Hard-coded API key
 OPENAI_API_KEY = st.text_input("OpenAI API Key", type="password")
 if not OPENAI_API_KEY:
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 else:
-    st.title("Cutomer Complaint Analyser")
-    st.write(
-        "Enter the URL of a text or Markdown document below, then ask a question about it – GPT will answer!"
-    )
 
     # Initialize OpenAI client
     client = OpenAI(api_key=OPENAI_API_KEY)
@@ -40,7 +37,7 @@ else:
         ]
         with st.spinner("Thinking..."):
             stream = client.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4.1-mini",
                 messages=messages,
                 stream=True,
             )
